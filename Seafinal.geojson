@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Seas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Greenland Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ 6.249243722541232, -7.04951403910658 ], [ 7.042724365035815, -8.765214897559384 ], [ 8.152592172081784, -9.946012533462872 ], [ 9.475706850678968, -10.785391487269473 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Barrents Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ 13.174948697041566, -1.501833682859268 ], [ 13.016983025796513, 1.040476335640995 ], [ 12.877612092039255, 1.909859530762821 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Kara Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.694477968064453, 7.384913687836206 ], [ 10.536222944449982, 7.691235087187263 ], [ 9.112411405176875, 7.364893362303189 ], [ 8.406641369016564, 6.968669294733278 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Laptev Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ 4.607125914878804, 10.685131153860599 ], [ 4.118412834824973, 11.76935259433103 ], [ 3.358926753186923, 12.640182607082112 ], [ 2.70865016145978, 13.281707129205271 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Siberian Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.709507523113995, 13.83122802694454 ], [ -5.40272256803722, 14.927789709024692 ], [ -6.433755764051623, 15.676449909574909 ], [ -7.758629440411355, 15.756174090171013 ], [ -9.566311165428802, 15.5987814682737 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Chukchi Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ -15.292930874200406, 12.918115714183337 ], [ -16.71308948519647, 11.133713789464251 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ -18.742115545230259, 1.584812920016252 ], [ -18.409321765713852, 0.112959528079505 ], [ -17.316298043820222, -0.930553817452785 ], [ -16.24077888293213, -1.49884677906486 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Norwegian Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ 17.895432392371617, -14.932649202382425 ], [ 16.879866921939545, -12.977638466246587 ], [ 16.393078519473171, -11.431130693583677 ], [ 16.149136102830948, -10.03631671512702 ], [ 16.283890230715382, -8.734231961845628 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Baffin Bay" }, "geometry": { "type": "LineString", "coordinates": [ [ -6.746951084655326, -13.84977938916624 ], [ -6.528506588542731, -14.991524014838145 ], [ -6.212405353467847, -15.897075138410516 ] ] } },
+{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "Seaname": "Bering Sea" }, "geometry": { "type": "LineString", "coordinates": [ [ -23.799314887460692, 20.647456127970184 ], [ -25.708757889785545, 18.724434008335908 ] ] } }
+]
+}
